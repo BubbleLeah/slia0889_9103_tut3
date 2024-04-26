@@ -20,4 +20,6 @@ this is my first change to repo
 
 **Images**
 **Remote Images**
-![An image of a cat](https://placekitten.com/200/300)
+**Local images**
+
+![The Mona Lisa](readmeImages/monalisa.jpg)
