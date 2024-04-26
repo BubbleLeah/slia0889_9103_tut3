@@ -17,3 +17,7 @@ this is my first change to repo
 - Item 2
     - Sub item 1
     - Sub item 2
+
+**Images**
+**Remote Images**
+![An image of a cat](http://placekitten.com/200/300)
