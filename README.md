@@ -23,3 +23,7 @@ this is my first change to repo
 **Local images**
 
 ![The Mona Lisa](readmeImages/monalisa.jpg)
+
+```
+This is a code block!
+```
